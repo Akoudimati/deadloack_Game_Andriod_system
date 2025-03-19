@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Deadlock Game Timer</string>
+    <string name="start_timer">Start Game Timer</string>
+    <string name="minutes_hint">Minutes</string>
+    <string name="seconds_hint">Seconds</string>
+    <string name="bridge_buffs_times">Bridge Buffs Times</string>
+</resources> 
